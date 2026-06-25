@@ -2,7 +2,12 @@
 
 An ESP8266-based smart plant monitoring and irrigation system that measures temperature, humidity, soil moisture, and water level, uploads readings to Firebase Realtime Database, displays live values on an OLED screen, and controls a water pump automatically or manually through a mobile application.
 
-![System demonstration with mobile app](public/images/projects/iot-smart-plant-monitoring-irrigation-system/demo-system-and-mobile-app.jpg)
+![System demonstration with mobile app](public/images/projects/iot-smart-plant-monitoring-irrigation-system/demo-system-and-mobile-app.png)
+
+## Project Links
+
+- [Watch the system demonstration on YouTube](https://youtu.be/aI00_OWCgdE)
+- [View and download the CAD assembly on GrabCAD](https://grabcad.com/library/iot-smart-plant-monitoring-and-irrigation-system-1)
 
 ## Main Features
 
@@ -24,11 +29,15 @@ The system collects environmental and plant-state readings from multiple sensors
 
 The mobile application reads values from Firebase and can also write a manual pump-control signal. The firmware combines this manual command with the automatic control decisions.
 
+A complete demonstration of the working system is available on [YouTube](https://youtu.be/aI00_OWCgdE).
+
 ![Mobile app manual control off](public/images/projects/iot-smart-plant-monitoring-irrigation-system/mobile-app-manual-off.jpg)
 
 ## Hardware and Mechanical Design
 
 The prototype combines the electronics, pump, reservoir, and plant into a single physical setup. The project includes SolidWorks model files, laser-cut design files, and prototype photographs.
+
+The complete CAD assembly and laser-cut base design are also available on [GrabCAD](https://grabcad.com/library/iot-smart-plant-monitoring-and-irrigation-system-1).
 
 ![SolidWorks assembly view](public/images/projects/iot-smart-plant-monitoring-irrigation-system/solidworks-assembly-inclined-view.png)
 
