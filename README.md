@@ -6,8 +6,10 @@ Smart plant monitoring and irrigation system using ESP8266 that can measure temp
 
 ## Project Links
 
-- [Watch the system demonstration on YouTube](https://youtu.be/aI00_OWCgdE)
-- [View and download the CAD assembly on GrabCAD](https://grabcad.com/library/iot-smart-plant-monitoring-and-irrigation-system-1)
+* [Watch the system demonstration on YouTube](https://youtu.be/aI00_OWCgdE)
+* [View and download the CAD assembly on GrabCAD](https://grabcad.com/library/iot-smart-plant-monitoring-and-irrigation-system-1)
+* [View the project presentation on Google Drive](https://drive.google.com/file/d/1_8KFbPvdZKp6DIN9-UDTGGExOlGt3kEv/view?usp=sharing)
+* [View the project report on Google Drive](https://drive.google.com/file/d/1Z6fiAquu5lFb8KfRN3QRPsXgbrMNaOEP/view?usp=sharing)
 
 ## Main Features
 
